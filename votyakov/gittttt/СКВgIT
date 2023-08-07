@@ -57,6 +57,8 @@ git branch -M main
 git push -u origin main
 ***
 
+git remote -v #посмотреть удаленные репы 
+
 git clone <repository adress> # клонировать проект из репозитория на компьютер
 git push # отправить изменения 
 
