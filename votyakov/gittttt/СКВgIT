@@ -58,6 +58,7 @@ git push -u origin main
 ***
 
 git remote -v #посмотреть удаленные репы 
+git remote set-url origin new.git.url/here #поменять репу
 
 git clone <repository adress> # клонировать проект из репозитория на компьютер
 git push # отправить изменения 
